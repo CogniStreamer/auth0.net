@@ -5,6 +5,7 @@
     <Version>4.10.1</Version>
     <AssemblyVersion>4.10.1.0</AssemblyVersion>
     <FileVersion>4.10.1.0</FileVersion>
+    <PackageId>Cognistreamer.Auth0.ManagementApi</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
